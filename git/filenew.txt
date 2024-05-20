@@ -1,2 +1,3 @@
 hi user
     welcome here to to  your file 
+    hi welocme file after all merge process
